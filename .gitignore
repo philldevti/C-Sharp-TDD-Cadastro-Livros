@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/ClassLibrary1/obj/Debug
+/ClassLibrary1/obj/Debug
+/packages/EntityFramework.6.2.0
+/RegisterBooks.Business/obj/Debug
+/RegisterBooks.Data/obj/Debug
+/RegisterBooks.Test/obj/Debug
